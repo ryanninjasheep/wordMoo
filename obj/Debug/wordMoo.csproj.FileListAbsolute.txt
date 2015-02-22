@@ -1,0 +1,22 @@
+C:\Users\Ryan\Desktop\wordMoo\wordMoo\obj\Debug\wordMoo.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\wordMoo\wordMoo\obj\Debug\wordMoo.Edit.resources
+C:\Users\Ryan\Desktop\wordMoo\wordMoo\obj\Debug\wordMoo.NewThing.resources
+C:\Users\Ryan\Desktop\wordMoo\wordMoo\obj\Debug\wordMoo.Test.resources
+C:\Users\Ryan\Desktop\wordMoo\wordMoo\obj\Debug\wordMoo.Main.resources
+C:\Users\Ryan\Desktop\wordMoo\wordMoo\obj\Debug\wordMoo.Properties.Resources.resources
+C:\Users\Ryan\Desktop\wordMoo\wordMoo\obj\Debug\wordMoo.csproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\wordMoo\wordMoo\bin\Debug\wordMoo.exe
+C:\Users\Ryan\Desktop\wordMoo\wordMoo\bin\Debug\wordMoo.pdb
+C:\Users\Ryan\Desktop\wordMoo\wordMoo\obj\Debug\wordMoo.exe
+C:\Users\Ryan\Desktop\wordMoo\wordMoo\obj\Debug\wordMoo.pdb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\wordMoo\wordMoo\obj\Debug\wordMoo.exe
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\wordMoo\wordMoo\obj\Debug\wordMoo.pdb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\wordMoo\wordMoo\bin\Debug\wordMoo.exe
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\wordMoo\wordMoo\bin\Debug\wordMoo.pdb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\wordMoo\wordMoo\obj\Debug\wordMoo.Edit.resources
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\wordMoo\wordMoo\obj\Debug\wordMoo.NewThing.resources
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\wordMoo\wordMoo\obj\Debug\wordMoo.Test.resources
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\wordMoo\wordMoo\obj\Debug\wordMoo.Main.resources
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\wordMoo\wordMoo\obj\Debug\wordMoo.Properties.Resources.resources
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\wordMoo\wordMoo\obj\Debug\wordMoo.csproj.GenerateResource.Cache
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\wordMoo\wordMoo\obj\Debug\wordMoo.csprojResolveAssemblyReference.cache
